@@ -1,5 +1,6 @@
 import math
 from statistics import NormalDist
+import pandas as pd
 
 z = NormalDist().inv_cdf
 
